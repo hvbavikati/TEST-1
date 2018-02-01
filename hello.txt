@@ -1,3 +1,7 @@
 hello world
 from git
+HEAD
 ok
+
+today 
+eb06695d41207f3332af4b0856a3aaad03ff25da
